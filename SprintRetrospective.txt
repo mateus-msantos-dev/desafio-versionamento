@@ -1,0 +1,11 @@
+Sprint Retrospective - Sprint 3
+
+O que funcionou bem:
+- Controle de versões com Git funcionou corretamente
+- Branches facilitaram a organização das alterações
+
+O que não funcionou bem:
+- Dificuldade inicial ao fazer o merge
+
+Sugestões de melhoria:
+- Treinar mais o uso de branches e merge
